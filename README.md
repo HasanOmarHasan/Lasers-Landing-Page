@@ -44,7 +44,7 @@ Checks for best practices to ensure your site is discoverable.
 
 ## Demo
 
-Check the live demo here 👉️ [https://landy-web.netlify.app/](https://lasers-help.netlify.app/)
+Check the live demo here 👉️ [laser](https://lasers-help.netlify.app/)
 
 
 ### Installation
@@ -57,10 +57,10 @@ Begin by cloning this repository to establish your own local copy. This process 
 
 ## What's included
 
-- [antd][antd] - React UI library that contains a set of high quality components.
-- [react-awesome-reveal][react-awesome-reveal] - High performance library that adds reveal animations using the Intersection Observer API.
-- [styled-componets][styled-componets] - Variant on “CSS-in-JS”—which solves many of the problems with traditional CSS.
-- [i18next][i18next] - Internationalization-framework written in and for JavaScript.
+- [antd] - React UI library that contains a set of high quality components.
+- [react-awesome-reveal] - High performance library that adds reveal animations using the Intersection Observer API.
+- [styled-componets] - Variant on “CSS-in-JS”—which solves many of the problems with traditional CSS.
+- [i18next] - Internationalization-framework written in and for JavaScript.
 
 
 [i18next]: https://github.com/i18next/i18next
@@ -70,4 +70,4 @@ Begin by cloning this repository to establish your own local copy. This process 
 <!-- prettier-ignore-end -->
 
 
-this is fork from open source templet linke https://github.com/Adrinlol/landy-react-template
+### this is fork from open source templet linke https://github.com/Adrinlol/landy-react-template
